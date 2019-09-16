@@ -4,5 +4,6 @@ Course Website
 title: Test
 ---
 
+Thank you for coming to my website!
 
-Hello World
+If you are interested in my github profile, it can be located at https://github.com/Symbolic37
