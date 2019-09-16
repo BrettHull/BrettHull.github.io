@@ -6,4 +6,4 @@ title: Test
 
 Thank you for coming to my website!
 
-If you are interested in my github profile, it can be located at https://github.com/Symbolic37
+If you are interested in my github profile, it can be located at [I'm an inline-style link](https://github.com/Symbolic37)
