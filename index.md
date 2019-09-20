@@ -1,7 +1,7 @@
-# symbolic37.github.io
-Course Website
+# bretthull.github.io
+Brett Hull
 ---
-title: Test
+title: Biography
 ---
 
 Thank you for coming to my website!
