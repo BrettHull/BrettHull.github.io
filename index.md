@@ -1,3 +1,5 @@
+# Home
+
 [Home](https://bretthull.github.io)  | [Research Interests](https://bretthull.github.io/research) 
 
 Thank you for coming to my website!
