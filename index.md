@@ -2,8 +2,11 @@
 # Brett Hull
 
 ### [Home](https://bretthull.github.io)  | [Research Interests](https://bretthull.github.io/research)
-:-----------------------------------: |  :--------------------------------------------------------:
+ :--------------------------------------------------------:
  
+ 
+ | Syntax      | Description |
+| ----------- | ----------- |
 
 Thank you for coming to my website!
 
