@@ -1,8 +1,8 @@
 
 # Brett Hull
 
-### [Home](https://bretthull.github.io)  | [Research Interests](https://bretthull.github.io/research)
- :--------------------------------------------------------:
+### | [Home](https://bretthull.github.io)  | [Research Interests](https://bretthull.github.io/research) |
+| :-------------------------------:|:-------------------:|
  
  
  | Syntax      | Description |
